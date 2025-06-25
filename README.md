@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Wessypeace 
 - 👀 I’m interested in coding and exploring 
-- 🌱 I’m currently learning in matric 
+- 🌱 I’m currently studying Bed foundation phase
+- 😍 learning coding with FNB App academy of the year
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me send me message inbox or facebook same username 
 
