@@ -57,18 +57,12 @@ Full‑stack developer • B.Ed Foundation Phase student • Poet
 * **Poetry Expand** — Poetry platform for writing and reading
 
   * Tech: HTML, CSS, JavaScript, React, Node.js
-  * Repo: [Poetry Expand Repo](https://github.com/wessypeace/poetry-expand)
-  * Screenshot: ![Poetry Expand Screenshot](assets/poetry-expand.){: width="600" height="400"}
+  * Screenshot: ![Poetry Expand Screenshot](assets/poetry-expand.) {: width="600" height="400"}
   * Live: [Poetry Expand Blog](https://poetryexpand.blogspot.com/)
 
 
-* **Children’s Story Projects** — “The Beginning” and “Lisa and her Mischievous Friends”
 
-  * Tech: Python (narration), simple web front‑end
-  * Repo: [Children’s Stories Repo](https://github.com/wessypeace/childrens-stories)
-  * Screenshot:![Children's Stories Screenshot](assets/children-stories.png){: width="600" height="400"}
 
----
 
 ## 📝 Latest Blog Posts
 
@@ -92,7 +86,7 @@ Full‑stack developer • B.Ed Foundation Phase student • Poet
 ## 🌐 Connect With Me
 
 * Email: **[wesaniletsoalo2@gmail.com](mailto:wesaniletsoalo2@gmail.com)**
-* Portfolio: [https://your-website.com](https://your-website.com)
+* Portfolio: [https://your-website.com](https://wessypeace.github.io/My-portfolio-/)
 * Poetry Blog: [Poetry Expand](https://poetryexpand.blogspot.com/)
 * LinkedIn: [LinkedIn Profile](https://za.linkedin.com/in/wesani-letsoalo-2777522b6)
 
