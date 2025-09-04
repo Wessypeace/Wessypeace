@@ -61,11 +61,6 @@ Full‑stack developer • B.Ed Foundation Phase student • Poet
   * Screenshot: ![Poetry Expand Screenshot](assets/poetry-expand.){: width="600" height="400"}
   * Live: [Poetry Expand Blog](https://poetryexpand.blogspot.com/)
 
-* **Menstruation Tracker** — Accuracy‑focused period tracking with reminders
-
-  * Tech: React, Node.js, MongoDB
-  * Repo: [Menstruation Tracker Repo](https://github.com/wessypeace/menstruation-tracker)
-  * Screenshot:![Menstruation Tracker Screenshot](assets/menstruation-tracker.png){: width="600" height="400"}
 
 * **Children’s Story Projects** — “The Beginning” and “Lisa and her Mischievous Friends”
 
