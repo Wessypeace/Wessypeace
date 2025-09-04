@@ -66,14 +66,14 @@ Full‑stack developer • B.Ed Foundation Phase student • Poet
 
   * Tech: Python (narration), simple web front‑end
   * Repo: [Children’s Stories Repo](https://github.com/wessypeace/childrens-stories)
-  * Screenshot:![Children's Stories Screenshot](assets/childrens-stories.png){: width="600" height="400"}
+  * Screenshot:![Children's Stories Screenshot](assets/children-stories.png){: width="600" height="400"}
 
 ---
 
 ## 📝 Latest Blog Posts
 
-* [Missing Puzzles](https://poetryexpand.blogspot.com/YOUR-LINK)
-* [Untitled 2](https://poetryexpand.blogspot.com/YOUR-LINK)
+* [Take me back home!](https://poetryexpand.blogspot.com/https://poetryexpand.blogspot.com/2024/07/take-me-back-home.html)
+* [Untitled 1](https://poetryexpand.blogspot.com/https://poetryexpand.blogspot.com/2024/08/untitled-1.html)
 
 ---
 
